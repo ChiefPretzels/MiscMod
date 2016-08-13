@@ -1,0 +1,6 @@
+# Block names
+tile.miscmod:slagFurnace_off.name=Slag Furnace
+tile.miscmod:slagFurnace_on.name=Slag Furnace
+
+# Creative tab names
+itemGroup.tabMiscMod=Misc. Mod

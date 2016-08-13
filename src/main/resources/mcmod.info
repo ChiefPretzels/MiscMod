@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MiscMod",
+  "name": "Misc Mod",
+  "description": "A random collection of modifications for Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "Pahimar for his 'Let's Mod Reboot'.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
